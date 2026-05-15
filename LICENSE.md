@@ -1,4 +1,4 @@
-# 
+# instant Automation for pump.fun sniper bot | front-running & honeypot-detection is the best pump.fun sniper bot, featuring front-running and honeypot-detection. Fast, smart, and
 
 
 
